@@ -1,50 +1,12 @@
-<style>
-    .d-inline {
-
-    }
-    .m-3 {
-        margin: 1rem;
-    }
-    .border {
-        border: 1px ridge black !important;
-    }
-    .rounded-3 {
-        border-radius: 1rem !important;
-    }
-    .container {
-        width: 100% !important;
-        margin-right: 5em;
-        margin-left: 5em;
-    }
-    .d-flex {
-        display: flex;
-    }
-    .mt-2 {
-        margin-top: 2em;
-    }
-    .logo-img {
-        height: 100px;
-    }
-    .name-img {
-        height:50px;
-    }
-    .theme-border {
-        border: 2px solid #98e8fa;
-    }
-    .bottom-border-hr {
-        border-bottom: 1px solid #909090;
-    }
-</style>   
-<header class="container d-flex mt-2">
-    <img src="./Arc-i-Tech-logo.jpeg" class="logo-img border rounded-3" alt="Arc-i-Tech Logo">
-    <div class="m-3">
-        <img src="./Arc-i-Tech-name.jpeg" class="name-img" alt="Arc-i-Tech Name">
-        <img src="https://readme-typing-svg.demolab.com?font=Nova+Script&pause=1000&color=AB3196&width=435&lines=Software+that+%22ARCS%22+above+the+rest." alt="Software that "ARCS" abpve the rest." class="d-block" height="40px">
+<div style="display: flex; margin: 0 5rem 0 5rem;">
+    <img src="./Arc-i-Tech-logo.jpeg" alt="Arc-i-Tech Logo" style="border:1px solid #dee2e6; border-radius:0.5rem;" height=100px>
+    <div style="margin:10px;">
+        <img src="./Arc-i-Tech-name.jpeg" alt="Arc-i-Tech Name" style="display:block;" height=50px>
+        <img src="https://readme-typing-svg.demolab.com?font=Nova+Script&pause=1000&color=AB3196&width=435&lines=Software+that+%22ARCS%22+above+the+rest." alt="Software that "ARCS" abpve the rest." height="40px">
     </div>
-</header>
-<p class="bottom-border-hr p-0"></p>
+</div>
 
-<div class="container">
+<div>
     <p>
         Vision: To empower businesses and individuals with innovative software solutions that streamline processes and optimize performance.</br>
         Mission: To create cutting-edge software that simplifies and enhances the way people work and live, by constantly pushing the boundaries of technology and design.
@@ -54,8 +16,3 @@
 <p align="center">
     <img class="theme-border px-5" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=2000&vCenter=true&multiline=true&width=435&height=150&lines=%3E+Innovative+software+solutions.;%3E+Constantly+improving+and+updating.;%3E+Dedicated+to+customer+satisfaction.;%3E+Quality+is+our+top+priority." alt="Innovative software solutions. Constantly improving and updating. Dedicated to customer satisfaction. Quality is our top priority.">
 </p>
-
-
-
-<!----------------------------------------------------------------------------------->
-
