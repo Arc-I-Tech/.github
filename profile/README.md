@@ -1,6 +1,6 @@
 <img align="right" left="250" height="150" width="180" alt="GIF" src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif">
 
-![Arc-i-Tech Image](./Arc-i-Tech.png)
+![Arc-i-Tech Image](./Arc-i-Tech.jpeg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Nova+Script&pause=1000&color=AB3196&width=435&lines=Software+that+%22ARCS%22+above+the+rest." alt="Software that 'ARCS' abpve the rest." height="40px">
 
