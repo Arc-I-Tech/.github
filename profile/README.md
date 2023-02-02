@@ -23,6 +23,6 @@
 <p align="center">
     <img class="theme-border px-5" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=2000&vCenter=true&multiline=true&width=435&height=150&lines=%3E+Innovative+software+solutions.;%3E+Constantly+improving+and+updating.;%3E+Dedicated+to+customer+satisfaction.;%3E+Quality+is+our+top+priority." alt="Innovative software solutions. Constantly improving and updating. Dedicated to customer satisfaction. Quality is our top priority.">
 </p>
-<img src="https://komarev.com/ghpvc/?username=arc-i-tech&label=View%20Count&color=blue&style=plastic" alt="visit counts" height="25px">
-<img src="https://img.shields.io/github/followers/arc-i-tech?style=social&lebel=Believers" height="25px">
-<img src="https://img.shields.io/github/stars/arc-i-tech?style=social" height="25px">
+<p>
+    <img src="https://komarev.com/ghpvc/?username=arc-i-tech&label=View%20Count&color=blue&style=plastic" alt="visit counts" height="25px"><img src="https://img.shields.io/github/followers/arc-i-tech?style=social&lebel=Believers" height="25px"><img src="https://img.shields.io/github/stars/arc-i-tech?style=social" height="25px">
+</p>
