@@ -23,6 +23,17 @@
 <p align="center">
     <img class="theme-border px-5" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=2000&vCenter=true&multiline=true&width=435&height=150&lines=%3E+Innovative+software+solutions.;%3E+Constantly+improving+and+updating.;%3E+Dedicated+to+customer+satisfaction.;%3E+Quality+is+our+top+priority." alt="Innovative software solutions. Constantly improving and updating. Dedicated to customer satisfaction. Quality is our top priority.">
 </p>
+
+
+## Follow Us:
 <p>
-    <img src="https://komarev.com/ghpvc/?username=arc-i-tech&label=View%20Count&color=blue&style=plastic" alt="visit counts" height="25px"><img src="https://img.shields.io/github/followers/arc-i-tech?style=social&lebel=Believers" height="25px"><img src="https://img.shields.io/github/stars/arc-i-tech?style=social" height="25px">
+<a href="https://www.linkedin.com/company/arc-i-tech/" target="_blank"><img src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" height="50px" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/arc.i.tech/" target="_blank"><img src="https://media.giphy.com/media/dagnmwFsNlltKvFNwP/giphy.gif" height="50px" alt="Instagram"></a>
+<a href="https://www.facebook.com/Arc.i.Tech.Soft" target="_blank"><img src="https://media.giphy.com/media/xpUtJjsEFZk7EcwPLs/giphy.gif" height="40px" alt="Facebook"></a>
+</p>
+
+
+## Our Stats:
+<p>
+    <img src="https://komarev.com/ghpvc/?username=arc-i-tech&label=View%20Count&color=blue&style=plastic" alt="visit counts" height="25px"> <img src="https://img.shields.io/github/followers/arc-i-tech?style=social&lebel=Believers" height="25px"> <img src="https://img.shields.io/github/stars/arc-i-tech?style=social" height="25px">
 </p>
