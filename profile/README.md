@@ -30,10 +30,11 @@
 <a href="https://www.linkedin.com/company/arc-i-tech/" target="_blank"><img src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" height="50px" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/arc.i.tech/" target="_blank"><img src="https://media.giphy.com/media/dagnmwFsNlltKvFNwP/giphy.gif" height="50px" alt="Instagram"></a>
 <a href="https://www.facebook.com/Arc.i.Tech.Soft" target="_blank"><img src="https://media.giphy.com/media/xpUtJjsEFZk7EcwPLs/giphy.gif" height="40px" alt="Facebook"></a>
+<a href="https://arc-i-tech.github.io/"><img src="https://media.giphy.com/media/AvFnix6HZGlQRGheyP/giphy.gif" height="50px"></a>
 </p>
 
 
 ## Our Stats:
 <p>
-    <img src="https://komarev.com/ghpvc/?username=arc-i-tech&label=View%20Count&color=blue&style=plastic" alt="visit counts" height="25px"> <img src="https://img.shields.io/github/followers/arc-i-tech?style=social&lebel=Believers" height="25px"> <img src="https://img.shields.io/github/stars/arc-i-tech?style=social" height="25px">
+    <img src="https://komarev.com/ghpvc/?username=arc-i-tech&label=View%20Count&color=blue&style=plastic" alt="visit counts" height="25px"> <img src="https://img.shields.io/github/followers/arc-i-tech?style=social&lebel=Believers" height="25px"> <img src="https://img.shields.io/github/stars/arc-i-tech?style=social" height="25px"> <a href="https://arc-i-tech.github.io/"><img alt="Website" src="https://img.shields.io/website?down_color=Red&down_message=Taking%20a%20quick%20break%2C%20be%20back%20soon&style=plastic&up_color=Green&up_message=Up%2C%20up%20and%20away%21&url=https%3A%2F%2Farc-i-tech.github.io%2F" height="25px"></a>
 </p>
